@@ -23,7 +23,8 @@ export const ROUTES = {
   internalTransactions: 'itxs',
   internalTx: 'itx',
   balance: 'balance',
-  balances: 'balances'
+  balances: 'balances',
+  config: 'config'
 }
 
 export const STATUS = {
